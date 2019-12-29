@@ -2,16 +2,16 @@
 title: Gurshaant Malik
 subtitle: 
 email: garymalik8080@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+description: The personal webpage of Gurshaant Malik.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gsmalik.github.io" # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Gurshaant Malik
+street_address: 
+city: Waterloo
+state: ON
+zip_code:
+country: Canada
+phone: (519) 781-4647
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
