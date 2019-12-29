@@ -20,7 +20,6 @@ tiles-count: 6
 # social settings
 github_url: https://github.com/gsmalik
 linkedin_url: https://www.linkedin.com/in/gurshaantmalik/
-twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
 markdown: kramdown
