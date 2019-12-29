@@ -1,7 +1,9 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Edge AI<br/>
+Algorithms<br/> 
+Evolutionary Computing'
 description: null
 image: null
 author: null

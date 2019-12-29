@@ -2,7 +2,7 @@
 title: Gurshaant Malik
 subtitle: 
 email: garymalik8080@gmail.com
-description: The personal webpage of Gurshaant Malik.
+description: AI Research Engineer at Applied Brain Research | PhD Student at University of Waterloo
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gsmalik.github.io" # the base hostname & protocol for your site
 author: Gurshaant Malik
@@ -19,6 +19,7 @@ tiles-count: 6
 
 # social settings
 github_url: https://github.com/gsmalik
+scholar_url: https://scholar.google.ca/citations?user=ATRPt_EAAAAJ&hl=en
 linkedin_url: https://www.linkedin.com/in/gurshaantmalik/
 
 # build settings
