@@ -18,11 +18,8 @@ tiles-source: pages # accepts "posts" or "pages"
 tiles-count: 6
 
 # social settings
-facebook_url:
 github_url: https://github.com/gsmalik
 linkedin_url: https://www.linkedin.com/in/gurshaantmalik/
-pinterest_url:
-slack_url:
 twitter_url: https://twitter.com/andrewbanchich
 
 # build settings
