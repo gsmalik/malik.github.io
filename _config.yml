@@ -6,10 +6,10 @@ description: The personal webpage of Gurshaant Malik.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gsmalik.github.io" # the base hostname & protocol for your site
 author: Gurshaant Malik
-street_address: 
+street_address: Unit 103, 255 Sunview Street 
 city: Waterloo
 state: ON
-zip_code:
+zip_code: N2L 3v8
 country: Canada
 phone: (519) 781-4647
 
