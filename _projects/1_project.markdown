@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: ML enabled KWS at the Edge
+description: Achieving SotA accuracy on the SpeechCommands dataset with the smallest neural models.
+img: /assets/img/smart-speaker.png
 importance: 1
 ---
 
