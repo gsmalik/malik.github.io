@@ -8,7 +8,7 @@ middle_name: Singh
 last_name: Malik
 email: garymalik8080@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal webpage of Gurshaant Malik.
+  Personal webpage of Gurshaant Malik, Machine Learning Scientist at ABR and PhD at UWaterloo
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
